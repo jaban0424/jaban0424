@@ -1,9 +1,7 @@
 ### Hi there 👋
-🔭 I wanna say "I’m currently working on Google"
+🔭 I wanna say "Google"
 🌱 I’m currently learning Deep learing
 👯 I’m looking to collaborate on No one
-🤔 I’m looking for help with *I dont know English well*
-💬 Ask me about *umm...*
 📫 How to reach me: Korea Gwangju
 😄 Pronouns: what is pronouns
 ⚡ Fun fact: I was born in 2004
