@@ -1,10 +1,5 @@
 ### Hi there 👋
-🔭 I wanna say "Google"
-🌱 I’m currently learning Deep learing
-👯 I’m looking to collaborate on No one
-📫 How to reach me: Korea Gwangju
-😄 Pronouns: what is pronouns
-⚡ Fun fact: I was born in 2004
+born in 2004
 
 <!--
 **jaban0424/jaban0424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
